@@ -1,0 +1,114 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.contest{
+    height: 1060px;
+    width: 600px;
+    background-image: url(images/background.png);
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.Top{
+    width: 600px;
+    height: 113px;
+    margin: 0 auto;
+}
+.top_title{
+    display: flex;
+    justify-content: space-between;
+}
+.top_title div{
+    width: 90px;
+    height: 113px;
+} 
+.information{
+    width: 440px;
+    height: 542px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+.Photo{
+    height: 168px;
+    width: 150px;
+}
+.registration {
+    height: 374px;
+    width: 440px;
+}
+.registration div{
+    height: 86px;
+    width: 440px;
+    color: #d4deea;
+    font-size: 26px;
+    line-height: 86px;
+    border-bottom:2px solid;
+}
+.indentify{
+    height: 233px;
+    width: 440px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.ann{
+    height: 168px;
+    width: 435px;
+    margin: 0 auto;
+    position: relative;
+}
+.button{
+    display: inline-block;
+    height: 80px;
+    width: 435px;
+    border-radius: 30px;
+    position: absolute;
+    top: 44px;
+    border: none;
+    box-shadow: 0 10px 10px rgba(0,0,0,.3);
+    color: #706d9f;
+    font-size: 32px;
+    
+}
+.confirm{
+    height: 96px;
+    width: 440px;
+    text-align: center;
+    border-radius: 35px;
+}
+.confirm span{
+    font-size: 22.96px;
+}
+.one {
+    color: #fcfcfd;
+}
+.two{
+    color: #3dfcb5;
+}
+.icon-fanhui {
+    font-size:200px;
+    color: #cee8eb;
+    line-height: 108px;
+}
+.icon-info {
+    font-size:200px;
+    color: #cee8eb;
+    line-height: 108px;
+}
+.icon-photos{
+    font-size: 100px;
+    color: #cee8eb;
+}
+#sign_up{
+    line-height:108px;
+    font-size: 32px;
+    text-align: center;
+    color: #cee8eb;
+    width: 136px;
+}

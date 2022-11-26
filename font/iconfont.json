@@ -1,0 +1,58 @@
+{
+  "id": "3787506",
+  "name": "云顶第三周",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3769484",
+      "name": "photo",
+      "font_class": "photo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5649570",
+      "name": "返回舱",
+      "font_class": "fanhuicang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "8642194",
+      "name": "INFO",
+      "font_class": "INFO",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "10886284",
+      "name": "info",
+      "font_class": "info",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11594383",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "14459178",
+      "name": "photos",
+      "font_class": "photos",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "26313758",
+      "name": "开通会员",
+      "font_class": "kaitonghuiyuan",
+      "unicode": "ffba",
+      "unicode_decimal": 65466
+    }
+  ]
+}
